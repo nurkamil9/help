@@ -1,0 +1,10 @@
+#phone-menu{
+    margin-left: 240px;
+}
+#root{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 70px;
+    margin-top: 20px;
+    width: 800px;
+}

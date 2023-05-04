@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1200px;
+    margin: 0px auto;
+}
+body{
+    background-image:url("https://st2.depositphotos.com/4224635/6305/i/950/depositphotos_63054783-stock-photo-laptop-with-digital-tablet-and.jpg") ;
+}
+.div-a{
+    display: flex;
+    justify-content: space-between;
+}
+#mx-avto{
+    margin-top: 30px;
+    width: 200px;
+}
+
+.btn{
+    background-color: blue;
+    color: aliceblue;
+    margin-left: 400px;
+}
+.links {
+    text-decoration: none;
+   padding-left: 50px;
+   
+}

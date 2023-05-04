@@ -1,0 +1,21 @@
+.container{
+    width: 1200px;
+    margin: 0px auto;
+}
+#btns{
+    width: 500px;
+    margin-left: 100px;
+}
+.btn{
+    width: 90px;
+    height: 40px;
+}
+#root{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+    width: 585px;
+    margin-left: 67px;
+    margin-top: 20px;
+   
+}

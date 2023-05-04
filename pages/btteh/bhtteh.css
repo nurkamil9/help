@@ -1,0 +1,9 @@
+.d-flex{
+    width: 550px;
+    margin-left: 80px;
+    flex-wrap: wrap;
+}
+#root{
+    margin-top: 25px;
+    margin-left: 120px;
+}
